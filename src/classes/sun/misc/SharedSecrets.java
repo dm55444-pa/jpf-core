@@ -172,7 +172,7 @@ public class SharedSecrets {
     return javaOISAccess;
   }
 
-  public void setJavaObjectInputStreamReadString(sun.misc.JavaObjectInputStreamReadString ignored) {
+  public void setJavaObjectInputStreamReadString() {
       
   }
 }
